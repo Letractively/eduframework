@@ -1,0 +1,1 @@
+It's simple as it can be web framework based on MVC architecture. See [How to start](https://code.google.com/p/eduframework/wiki/HowToStart) wiki page for more details.
